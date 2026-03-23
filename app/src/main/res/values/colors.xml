@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Nubank Style -->
+    <color name="roxo_nubank">#820AD1</color>
+    <color name="roxo_nubank_dark">#5A0A9E</color>
+    <color name="roxo_nubank_light">#9B4DFF</color>
+
+    <!-- Base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Background -->
+    <color name="background">#F5F5F5</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#BDBDBD</color>
+
+</resources>
